@@ -26,7 +26,7 @@
 <p align="left">
   I'm <strong>Nabila Andriani</strong> from Indonesia.<br><br>
   - 🎨 I'm passionate about <strong>UI/UX Design</strong> and <strong>Web Development</strong><br>
-  - 🔭 I'm currently working on design & web projects<br>
+  - 🔭 I'm currently Information Systems student at Universitas Negeri Surabaya<br>
   - 📚 I'm continuously learning and growing in tech<br>
   - ⚡ In my free time I love exploring new design trends & coding from home ☕
 </p>
